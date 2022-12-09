@@ -1,5 +1,7 @@
 
 ## 🌐 Socials:
+<div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="yunussoylemez" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/yunussoylemez?trk=profile-badge">Yunus Soylemez</a></div>
+              
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yunussoylemez) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ynssylmz) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/retwiteeer) 
 
 # 💻 Tech Stack:
